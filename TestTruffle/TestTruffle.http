@@ -1,0 +1,6 @@
+@TestTruffle_HostAddress = http://localhost:5155
+
+GET {{TestTruffle_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
